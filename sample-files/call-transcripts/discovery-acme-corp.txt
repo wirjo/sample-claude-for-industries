@@ -1,0 +1,60 @@
+Sales Call - Acme Corp Discovery
+March 15, 2025 | 2:00 PM - 3:00 PM
+
+Attendees:
+- John Smith (VP Engineering, Acme Corp)
+- Sarah Johnson (IT Director, Acme Corp)
+- Tom Wilson (Account Executive, Our Company)
+- Lisa Chen (Sales Engineer, Our Company)
+
+Call Summary:
+
+Opening:
+John mentioned they're evaluating 3 vendors including us. Decision timeline is end of April. They need to replace their current analytics platform due to performance issues and lack of customization.
+
+Budget Discussion:
+John said they have $100-150K allocated for this project annually. They're currently spending $75K on their existing solution. Budget was approved last quarter and they have sign-off from CFO.
+
+Technical Requirements:
+- Need to handle 500+ concurrent users
+- Must integrate with Salesforce, Hubspot, and their custom data warehouse
+- Real-time dashboards with sub-second refresh rates
+- Custom reporting with white-labeling for their clients
+- SSO integration (they use Okta)
+- SOC 2 Type 2 compliance required
+
+Pain Points:
+- Current solution crashes during month-end reporting (biggest pain point)
+- Takes their team 2 days to create custom reports that should take hours
+- No mobile access - executives want to view dashboards on iPads
+- Poor customer support from current vendor (8-hour response times)
+
+Decision Process:
+John is the primary decision maker but Sarah has technical veto power. They'll involve their CISO for security review. CFO approval is already secured. They're planning a 2-week POC with finalists in April.
+
+Competition:
+They're looking at Competitor A (too expensive) and Competitor B (missing key features). We seem to be in a strong position based on our feature set and pricing.
+
+Timeline:
+- Week 1: Technical deep dive scheduled for March 22
+- Week 2: POC begins April 1
+- Week 3-4: POC evaluation
+- Week 5: Final decision and contract negotiations
+- Target start date: May 1
+
+Concerns/Objections:
+- Worried about migration complexity from current system (200+ dashboards to migrate)
+- Asked about our company's financial stability (startup concern)
+- Want references from similar-sized companies in their industry
+
+Next Steps:
+- Tom to send technical deep dive agenda by March 18
+- Lisa to prepare POC environment by March 25
+- Share 3 customer references in financial services by March 20
+- John to provide sample data for POC
+- Schedule follow-up call for March 29 to review POC progress
+
+Opportunity Score: 8/10
+Deal Size: $120,000 annually
+Close Probability: 70%
+Risk Factors: Migration complexity, competitive POC process

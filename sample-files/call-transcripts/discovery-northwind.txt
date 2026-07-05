@@ -1,0 +1,42 @@
+DISCOVERY CALL — Northwind Traders
+Date: 2026-03-10
+Participants:
+  - Alex Chen (Account Executive)
+  - Priya Desai (VP Ops, Northwind)
+  - Marcus Cole (Procurement, Northwind)
+
+COMPANY CONTEXT
+- Industry: Enterprise logistics / fulfilment
+- Headcount: ~1,400
+- Current stack: SAP, homegrown middleware, some Salesforce
+- Decision style: Procurement-led, committee review
+
+PAIN POINTS
+- Priya: "Our reporting cycle is three weeks because every team exports their
+  own CSV. We need something that pulls the same data the same way every time."
+- Marcus: "Honestly the workflow improvement is interesting but my concern is
+  unit economics. We're looking at $120K+ annual and I don't know if the
+  board will approve that kind of tool spend this cycle."
+
+BUDGET / PRICING
+- Range indicated: $80K–100K
+- Our quote: $135K (tier 3)
+- Priya: "The capability is right. The price is the problem."
+- Marcus: "Can you do a 12-month pilot at $60K?"
+
+DECISION PROCESS
+- CFO sign-off required
+- Procurement committee meets monthly
+- Earliest decision: end of Q2
+
+COMPETITION
+- Evaluating Tool A and Tool B
+- Tool A quoted $95K
+- Tool B quoted $78K
+
+NEXT STEPS
+- Send revised proposal with pilot option
+- Follow up after procurement meeting April 15
+
+NOTES
+Clear pricing objection. Good fit on capability but deal is stuck on budget.

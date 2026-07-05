@@ -1,0 +1,40 @@
+DISCOVERY CALL — TechStart Labs
+Date: 2026-03-14
+Participants:
+  - Alex Chen (Account Executive)
+  - Jamie Chen (Founder & CEO, TechStart)
+
+COMPANY CONTEXT
+- Industry: Early-stage SaaS (productivity for freelancers)
+- Headcount: 12
+- Stack: Notion, Slack, Linear, some Google Workspace
+- Decision style: Jamie decides, usually in the same call
+
+PAIN POINTS
+- Jamie: "Honestly the reporting workflow isn't my problem. My problem is I
+  can't hire fast enough. I need a tool that lets my team of 12 feel like
+  50 — whatever that looks like."
+- Jamie: "I care about integration with Linear and Slack more than anything.
+  If I have to change how we work, it's a no."
+
+BUDGET / PRICING
+- Jamie: "Give me your best price. I'll say yes or no on the call. I don't
+  care about line items, I care about value. If this saves one engineer-week
+  per month it pays for itself three times over."
+- Quote offered: $2,400/month ($28.8K annual)
+- Reaction: "Done. When can we start?"
+
+DECISION PROCESS
+- Jamie, same call. Done.
+
+COMPETITION
+- Not formally evaluating anyone else
+- "If your thing works, I'm not shopping"
+
+NEXT STEPS
+- Contract sent within 48h
+- Kickoff next week
+
+NOTES
+Contrast with enterprise deals: Jamie didn't negotiate on price, only on fit.
+Founder-led, small-team, fast decision style.

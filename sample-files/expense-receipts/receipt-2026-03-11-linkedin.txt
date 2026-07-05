@@ -1,0 +1,17 @@
+LinkedIn Sales Navigator
+Receipt
+
+Date: March 11, 2026
+Order #: LI-2026-0311-88147
+
+LinkedIn Sales Navigator — Team (annual)
+Seats: 8
+Unit price: $1,050.00
+Subtotal: $8,400.00
+Tax (10%): $840.00
+Total charged: $9,240.00
+
+Charged to: Mastercard ending 7731
+Billing contact: finance@yourcompany.com
+
+Category: Marketing / Sales tools

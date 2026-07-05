@@ -1,0 +1,42 @@
+DISCOVERY CALL — Globex Industries
+Date: 2026-03-12
+Participants:
+  - Alex Chen (Account Executive)
+  - Sarah Whitfield (CIO, Globex)
+  - Two finance analysts
+
+COMPANY CONTEXT
+- Industry: Manufacturing / industrial supply
+- Headcount: ~2,200
+- Stack: Oracle ERP, Workday, various legacy systems
+- Decision style: CIO-led with finance review
+
+PAIN POINTS
+- Sarah: "Reporting is too manual. Takes a senior analyst three days to close
+  the month. I need that down to hours."
+- Finance: "Data quality is inconsistent. Same metric looks different in two
+  dashboards."
+
+BUDGET / PRICING
+- Sarah: "I have budget but it needs to make sense. Anything north of $100K
+  needs a business case and I'd need to see ROI within 18 months."
+- Quote sent: $128K
+- Pushback: "The price is steep. If the business case is tight we'll do it,
+  but at this number the board will ask hard questions."
+
+DECISION PROCESS
+- Sarah signs off up to $150K with a business case
+- Finance reviews annually
+- Timeline: 8-10 weeks from proposal
+
+COMPETITION
+- Tool A previously evaluated and rejected (didn't meet data quality needs)
+- Currently only evaluating us
+
+NEXT STEPS
+- Send business case template
+- Follow up in 2 weeks
+
+NOTES
+Pricing is a factor but not the blocker — Sarah will defend the spend if the
+case is clear. Capability fit is strong.

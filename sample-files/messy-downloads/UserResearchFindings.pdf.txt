@@ -1,0 +1,6 @@
+[Simulated PDF - User research summary]
+Key findings from March user interviews:
+- Users want better data visualization
+- Mobile access is critical
+- Export functionality needs improvement
+- Performance issues with large datasets

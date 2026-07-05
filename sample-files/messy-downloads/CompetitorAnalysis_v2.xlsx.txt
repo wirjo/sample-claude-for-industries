@@ -1,0 +1,4 @@
+[Simulated Excel file - Competitor analysis]
+Competitor A: Strong in enterprise, weak in pricing
+Competitor B: Good UX, limited features
+Competitor C: Full-featured but expensive

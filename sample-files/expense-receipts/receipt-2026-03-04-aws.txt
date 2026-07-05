@@ -1,0 +1,17 @@
+AMAZON WEB SERVICES
+Invoice
+
+Invoice date: 2026-03-04
+Invoice number: 294817-03
+Billing period: February 2026
+
+Service: AWS Cloud Infrastructure (EC2, S3, Bedrock)
+Amount: USD 5,240.00
+Tax: USD 524.00
+Total: USD 5,764.00
+
+Paid by: Visa ending 4821
+Payment method: Corporate card
+Category: Software / Infrastructure
+
+Thank you for your business.

@@ -1,0 +1,18 @@
+Uber
+Your trip with Darius
+
+Date: Wed, 18 Mar 2026
+Pickup: 06:42 — SFO Airport Terminal 2
+Dropoff: 07:18 — 425 Market St, San Francisco
+
+Fare breakdown
+Base fare             $3.50
+Distance (13.4 mi)   $28.20
+Time (36 min)         $6.40
+Booking fee           $2.15
+Tip                   $8.00
+----------------------------
+Total                $48.25
+
+Payment: Amex ending 2102
+Category: Travel / Ground transport

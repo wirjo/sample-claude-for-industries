@@ -1,0 +1,39 @@
+DISCOVERY CALL — Contoso Studios
+Date: 2026-03-16
+Participants:
+  - Alex Chen (Account Executive)
+  - Ryan Park (Co-founder & Head of Product, Contoso)
+
+COMPANY CONTEXT
+- Industry: Creative agency / product design studio
+- Headcount: 18
+- Stack: Figma, Notion, a mess of spreadsheets
+- Decision style: Ryan + one co-founder, quick calls
+
+PAIN POINTS
+- Ryan: "We lose half a day every week reconciling project trackers. Clients
+  ask 'where are we' and it takes 20 minutes to answer."
+- Ryan: "I want something that makes the overhead go away. I don't care if
+  it's $2K a month or $5K a month, I care about whether it sticks."
+
+BUDGET / PRICING
+- Ryan: "Price isn't the issue. If it works, we'll pay. If it doesn't, free
+  is still too expensive."
+- Quote: $3,200/month
+- Reaction: "Fine. But can we do a 30-day pilot? I've been burned before on
+  tools that look great in demos and die in week two."
+
+DECISION PROCESS
+- Ryan, plus one co-founder. 48-hour turnaround on pilot approval.
+
+COMPETITION
+- Ryan: "I've seen demos from two others. Neither felt right. Not doing a
+  formal bake-off."
+
+NEXT STEPS
+- Pilot agreement drafted
+- Kickoff within 10 days
+
+NOTES
+Classic small-team founder buyer. Price objection absent. Sensitivity is on
+adoption risk and fit with existing workflow.

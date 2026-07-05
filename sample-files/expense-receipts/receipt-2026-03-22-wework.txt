@@ -1,0 +1,18 @@
+WeWork
+Membership Statement
+
+Member: Alex Chen
+Location: 535 Mission St, San Francisco
+Billing month: March 2026
+Statement date: 2026-03-22
+
+Private office (3 seats): $1,200.00
+Dedicated desk add-on:      $0.00
+Meeting room credits used:  $0.00
+
+Subtotal: $1,200.00
+Tax:          $0.00
+Total:    $1,200.00
+
+Paid: Auto-debit from corporate card ending 4821
+Category: Office / Coworking

@@ -1,0 +1,5 @@
+Quick notes from customer call with Acme Corp
+- Interested in enterprise plan
+- Need custom reporting
+- Timeline: end of Q2
+- Decision maker: John Smith, VP Engineering

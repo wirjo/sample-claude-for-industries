@@ -1,0 +1,5 @@
+[Simulated PowerPoint file - Product Roadmap for 2025]
+Q1: Dashboard improvements
+Q2: Mobile app launch
+Q3: API platform
+Q4: Enterprise features

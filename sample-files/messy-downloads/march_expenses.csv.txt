@@ -1,0 +1,5 @@
+Date,Category,Amount,Vendor
+2025-03-01,Software,5000,AWS
+2025-03-05,Marketing,8000,LinkedIn
+2025-03-10,Travel,2500,United Airlines
+2025-03-12,Office,1200,WeWork

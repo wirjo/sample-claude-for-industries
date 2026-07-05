@@ -1,0 +1,4 @@
+[Simulated Sketch file - Design system work in progress]
+Color palette: Primary #0066CC, Secondary #00CC66
+Typography: Heading - Inter Bold, Body - Inter Regular
+Components: Buttons, forms, cards, modals

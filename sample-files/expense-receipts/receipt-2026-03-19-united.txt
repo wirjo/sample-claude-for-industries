@@ -1,0 +1,17 @@
+United Airlines — Electronic Ticket Receipt
+
+Passenger: Chen, Alex
+Confirmation: VZQR7K
+Issue date: 2026-03-19
+
+Itinerary:
+  SFO → ORD   UA 2108   2026-03-24   07:15
+  ORD → SFO   UA 2301   2026-03-26   16:40
+
+Fare (Economy): 2,285.00 USD
+Taxes & fees:     215.00 USD
+Total:          2,500.00 USD
+
+Form of payment: VI *4821
+Category: Travel / Airfare
+Purpose: Customer visit — Q2 QBR with Northwind
