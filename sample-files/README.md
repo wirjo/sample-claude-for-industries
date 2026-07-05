@@ -1,23 +1,24 @@
-# Lab 5: Claude Cowork — sample files
+# Claude for Industries — Sample Files
 
-These files support the hands-on exercises in Lab 5 of the workshop.
+These sample files demonstrate how Claude can be applied across different industry scenarios and business workflows. Use them as starting points for exploring Claude's capabilities with realistic data.
 
-After you clone this repo into `~/Documents/claude-for-everyone/`, everything in Lab 5 points at this folder. Every exercise is self-contained — pick a page, copy a prompt, run it.
+## What's Here
 
-## What's here
-
-| Folder | What's in it | Used in |
+| Folder | What's in it | Use case |
 |---|---|---|
-| `expense-receipts/` | 6 receipts in mixed text formats | `file-tasks` — "format an expense report" |
-| `messy-downloads/` | 10+ files with inconsistent names and types | `file-tasks` — "organise this folder" |
-| `call-transcripts/` | 5 discovery call transcripts with overlapping themes | `research-analysis` — "find who disagreed and what they have in common" |
-| `research-folder/` | 7 meeting notes + 1 external report on a rewards-program decision | `research-analysis` — "synthesise across all sources" |
-| `project-notes/` | 3 project retrospective notes with one deliberate contradiction | `research-analysis` — "knowledge synthesis across your projects" |
-| `customer-usage.csv` | 12 months of account-level usage data with planted churn signals | `scheduled-tasks`, `research-analysis` — data analysis |
-| `weekly-brief-example.md` | Example of what a scheduled weekly brief looks like | `scheduled-tasks` — reference output |
+| `expense-receipts/` | 6 receipts in mixed text formats | Automated expense report generation and categorisation |
+| `messy-downloads/` | 10+ files with inconsistent names and types | Intelligent file organisation and renaming |
+| `call-transcripts/` | 5 discovery call transcripts with overlapping themes | Sales intelligence — find patterns, disagreements, and common themes |
+| `research-folder/` | 7 meeting notes + 1 external report on a rewards-program decision | Cross-document synthesis and decision support |
+| `project-notes/` | 3 project retrospective notes with one deliberate contradiction | Knowledge management and contradiction detection |
+| `customer-usage.csv` | 12 months of account-level usage data with planted churn signals | Customer analytics and churn prediction |
+| `weekly-brief-example.md` | Example of a scheduled weekly brief output | Automated reporting and executive summaries |
 
-## Tips
+## Getting Started
 
-- You don't have to do every exercise. Pick the ones that match the way you actually work.
-- Cowork produces **real files** — check the output in Finder or the native app, not just the Cowork task log.
-- If something looks off, type into the Cowork chat to redirect mid-task. You don't have to start over.
+Point Claude at any folder or file and ask it to help with a task relevant to your industry. For example:
+
+- **Financial Services:** Analyse expense receipts for compliance, detect anomalies in customer usage data
+- **Professional Services:** Synthesise research across multiple client engagements, generate project retrospectives
+- **Sales & Marketing:** Extract insights from discovery calls, identify churn risk signals
+- **Operations:** Organise unstructured file systems, generate automated weekly briefs
